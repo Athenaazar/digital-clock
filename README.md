@@ -1,5 +1,6 @@
 # Simple Digital Clock
 
+![Screenshot](./screenshot.gif)
 ## Algorithm
 
 
